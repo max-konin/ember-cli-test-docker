@@ -1,2 +1,2 @@
 # ember-cli-test-docker
-Docker container for testing ember applications
+Docker container for testing ember applications.
